@@ -1,1 +1,1 @@
-# square-two
+# two-squared
